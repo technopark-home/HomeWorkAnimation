@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWorkAnimaton</string>
+    <string name="hit_card">Hit card or ball</string>
+    <string name="stringNull" />
+</resources>
